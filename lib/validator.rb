@@ -47,7 +47,6 @@ class Validator
     end
     
     def subgroups_are_valid?
-      
       return "This sudoku is invalid."
     end
 
